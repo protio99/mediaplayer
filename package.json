@@ -1,0 +1,20 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "First project from Javascript Professional course from Platzi",
+  "main": "index.js",
+  "autor": "Daniela Correa <dacomu24@gmail.com> from the curse impose for Richard B. Kaufman Lopez <richardbkaufman@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "platzi",
+    "mediaplayer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
